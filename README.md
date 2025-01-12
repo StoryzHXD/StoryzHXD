@@ -5,9 +5,9 @@ Meu nome é Hadrian Christian
 - Sou desenvolvedor de software!
 - Tenho conhecimento sobre as seguintes linguagens:
 
--*• Luau ( Profissional );
+• Luau ( Profissional );
 • JavaScript ( Intermediário );
-• Python ( Aprendiz ):*-
+• Python ( Aprendiz );
 
 ### Como entrar em contato comigo 📬
 
