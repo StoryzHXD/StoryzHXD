@@ -2,8 +2,12 @@
 
 Meu nome é Hadrian Christian
 
-- Estou desenvolvendo jogos!
-- Tenho conhecimento intermediário sobre: JavaScript, Python é lua
+- Sou desenvolvedor de software!
+- Tenho conhecimento sobre as seguintes linguagens:
+
+*• Luau ( Profissional );
+• JavaScript ( Intermediário );
+• Python ( Aprendiz ):*
 
 ### Como entrar em contato comigo 📬
 
