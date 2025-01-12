@@ -1,16 +1,17 @@
-### Boa vindas ao meu perfil 💙
+## 🚀 Desenvolvedor de Software | Especialista em Luau  
 
-Meu nome é Hadrian Christian
+Desenvolvedor de software com experiência profissional na criação de sistemas e mecânicas avançadas utilizando a **linguagem Luau** no **Roblox**.  
 
-- Sou desenvolvedor de software!
-- Tenho conhecimento sobre as seguintes linguagens:
+### 🛠️ Habilidades e Foco:
+- Desenvolvimento de **sistemas otimizados** para jogos multiplayer.
+- Gerenciamento de memória e desempenho em larga escala.
+- Integração com **APIs do Roblox**:  
+  - **Raycasting**  
+  - **Physics**  
+  - **Constraints**  
+- Criação de sistemas dinâmicos, como:  
+  - Gerenciamento de objetos.  
+  - Movimentação de entidades.  
+  - Sistemas de persistência de dados.  
 
-• Luau ( Profissional );
-• JavaScript ( Intermediário );
-• Python ( Aprendiz );
-
-### Como entrar em contato comigo 📬
-
-- hadrianredesocial@gmail.com
-
-![](https://tenor.com/pt-PT/view/test-typing-codes-gif-15828752)
+🎯 Sempre em busca de inovação e eficiência para entregar experiências interativas e imersivas aos usuários.
