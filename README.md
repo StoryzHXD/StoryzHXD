@@ -9,9 +9,12 @@ Desenvolvedor de software com experiência profissional na criação de sistemas
   - **Raycasting**  
   - **Physics**  
   - **Constraints**  
+  - **Pathfind**
+  - **Outros**
 - Criação de sistemas dinâmicos, como:  
   - Gerenciamento de objetos.  
   - Movimentação de entidades.  
   - Sistemas de persistência de dados.  
+  - É tudo que sua mente possa imaginar, sairá do papel é se tornará realidade.
 
 🎯 Sempre em busca de inovação e eficiência para entregar experiências interativas e imersivas aos usuários.
